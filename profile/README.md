@@ -12,7 +12,7 @@ answer to a challenge launched by a potential client that it could only be done 
 
 The code for a more enhanced version of that is available in the [engine repository](https://github.com/hashiruhq/engine).
 We're looking to improve on that codebase and add support for multiple communication channels and protocols.
-The engine is currently licensed to an italian crypto exchange.
+The engine is currently running in production for 5 years for an italian crypto exchange.
 
 If you are building an exchange and would like to see how we can help feel free to [contact us](mailto:cosmin@around25.com).
 
